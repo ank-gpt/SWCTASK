@@ -4,7 +4,7 @@ body{
   margin-right: -5px;
 }
 .header{
-  background-color: hwb(0 100% 0%);
+  background-color: hwb(0 97% 1%);
   border-bottom: 2px solid rgb(108, 106, 106);
   border-top:  2px solid rgb(108, 106, 106);
   position: fixed;
@@ -49,7 +49,7 @@ input.nosubmit {
 }
 .iconmovie{
   position: relative;
-  left: 126px;
+  left: 156px;
   top: 8px;
   display: inline-block;
   
@@ -66,6 +66,7 @@ input.nosubmit {
   width: 390px;
   border: 1.5px solid grey;
   border-top: none;
+  background-color: hwb(0 79% 18%);
 }
 .movie-img{
   position:relative;
@@ -76,6 +77,7 @@ input.search{
   width: 300px;
   height: 50px; 
   border-radius: 20px;
+  font-size: 20px;
 }
 ::placeholder{
   text-align: center;
